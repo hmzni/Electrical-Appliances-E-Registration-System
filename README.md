@@ -1,1 +1,1 @@
-"# Electrical-Appliances-E-Registration-System" 
+The manual hostel appliance registration process is inefficient and error-prone. This study proposes a digital system using QR codes for streamlined registration and secure payments, reducing queues and unauthorized stickers. Admins gain real-time monitoring and reports, enhancing efficiency, safety, and convenience for all stakeholders.
